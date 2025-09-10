@@ -18,7 +18,7 @@ export const TickerHeader = () => {
           <div className="flex items-center gap-2">
             <Shield className="h-6 w-6 text-primary" />
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              FHE Confidential Finance
+              Cipher Vault Forecast
             </span>
           </div>
           <div className="flex items-center gap-1 text-xs text-muted-foreground">
